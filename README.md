@@ -2,6 +2,8 @@
 <h3 align="center">Software Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
+vicpchai@gmail.com
+www.linkedin.com/in/vicchai
 <p align="left">
 </p>
 
